@@ -70,7 +70,7 @@ Maintainer:
 
 ### PHP
 
-[github.com/wechaty/php-grpc](https://github.comwechaty/php-grpc)
+[github.com/wechaty/php-grpc](https://github.com/wechaty/php-grpc)
 
 Maintainer:
 
